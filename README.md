@@ -19,7 +19,7 @@ Focused on LLM agents, tool-based systems, and improving quality, latency, and c
 
 ## Experience
 
-### Yandex — AI Engineer  
+### Yandex
 *03/2025 — Present*
 
 - Shipped a deep research LLM agent (Alice AI), enabling complex task solving via tools  
@@ -31,7 +31,7 @@ Focused on LLM agents, tool-based systems, and improving quality, latency, and c
 
 ---
 
-### OLX — AI Engineer / Data & ML  
+### OLX
 *08/2023 — 03/2025*
 
 - Built RAG search → **-11% support tickets**  
@@ -42,7 +42,7 @@ Focused on LLM agents, tool-based systems, and improving quality, latency, and c
 
 ---
 
-### VisionLabs — ML / CV Engineer  
+### VisionLabs
 *03/2021 — 07/2023*
 
 - LiDAR map matching: **94% synthetic / 89% real accuracy**  
